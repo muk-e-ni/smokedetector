@@ -1,4 +1,4 @@
-//#include<LiquidCrystal_I2C.h>
+#include<LiquidCrystal_I2C.h>
 #define led_pin 13
 int smokeA0 = A0;
 int buzzer = 11;
